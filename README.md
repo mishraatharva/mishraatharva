@@ -12,22 +12,17 @@ Passionate about leveraging AI to solve real-world problems. 🚀
 
 ### **Languages**
 - Python, SQL  
-
 ### **Core Skills**
 - Artificial Intelligence, Data Science, Neural Networks  
 - Machine Learning, Deep Learning, Computer Vision  
-
 ### **Frameworks & Libraries**
 - Scikit-Learn, TensorFlow, Keras, PyTorch  
 - NLTK, SpaCy, Seaborn, Matplotlib  
 - MLflow  
-
 ### **Tools**
 - VS Code, Spyder  
-
 ### **Databases**
 - MongoDB  
-
 ### **Backend Development**
 - Flask  
 
