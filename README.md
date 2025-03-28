@@ -1,23 +1,38 @@
 ## Hi there 👋
 
- A data science enthusiast learned Machine Learning, Deep Learning, and Natural Language Processing, Computer Vision
- through iNeuron, gained expertise in Scikit-Learn, TensorFlow, PyTorch, NLTK, SpaCy, Pandas, NumPy,
- Seaborn, and Matplotlib. Developed hands-on projects, based on text classification, text summarization
- and predictive modeling, computer vision etc. Proficient in data preprocessing, feature engineering, model evaluation, and
- visualization. Passionate about leveraging AI to solve real-world problems.
+A data science enthusiast with expertise in **Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision**.  
+I have learned and applied these skills through **iNeuron** and have gained hands-on experience in **Scikit-Learn, TensorFlow, PyTorch, NLTK, SpaCy, Pandas, NumPy, Seaborn, and Matplotlib**.  
+I have worked on projects related to **text classification, text summarization, predictive modeling, and computer vision**.  
+
+Passionate about leveraging AI to solve real-world problems. 🚀  
+
+---
+
+## 🛠 TECHNICAL SKILLS:
+
+### **Languages**
+- Python, SQL  
+
+### **Core Skills**
+- Artificial Intelligence, Data Science, Neural Networks  
+- Machine Learning, Deep Learning, Computer Vision  
+
+### **Frameworks & Libraries**
+- Scikit-Learn, TensorFlow, Keras, PyTorch  
+- NLTK, SpaCy, Seaborn, Matplotlib  
+- MLflow  
+
+### **Tools**
+- VS Code, Spyder  
+
+### **Databases**
+- MongoDB  
+
+### **Backend Development**
+- Flask  
 
 
+---
 
-## TECHNICAL SKILLS:
-
-**Languages**: Python, sql
-
-**Core Skills:** Artificial Intelligence, Data Science, Neural Network, Machine Learning, Deep Learning,Commputer Vision
-
-**Frameworks:** scikit-learn, NLTK, Seaborn, Matplotlib, Tensorflow, Keras, Pytorch, Spacy, MLflow
-
-**Tools:** VScode,Spyder
-
-**Databases:** mongodb
-
-**Backend Framework:** Flask
+### 🚀 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-mishra-222036216/)  
