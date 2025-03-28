@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**mishraatharva/mishraatharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A data science enthusiast learned Machine Learning, Deep Learning, and Natural Language Processing, Computer Vision
+ through iNeuron, gained expertise in Scikit-Learn, TensorFlow, PyTorch, NLTK, SpaCy, Pandas, NumPy,
+ Seaborn, and Matplotlib. Developed hands-on projects, based on text classification, text summarization
+ and predictive modeling, computer vision etc. Proficient in data preprocessing, feature engineering, model evaluation, and
+ visualization. Passionate about leveraging AI to solve real-world problems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## TECHNICAL SKILLS:
+
+**Languages**: Python, sql
+
+**Core Skills:** Artificial Intelligence, Data Science, Neural Network, Machine Learning, Deep Learning,Commputer Vision
+
+**Frameworks:** scikit-learn, NLTK, Seaborn, Matplotlib, Tensorflow, Keras, Pytorch, Spacy, MLflow
+
+**Tools:** VScode,Spyder
+
+**Databases:** mongodb
+
+**Backend Framework:** Flask
