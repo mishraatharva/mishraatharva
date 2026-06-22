@@ -24,7 +24,7 @@ Passionate about leveraging AI to solve real-world problems. 🚀
 ### **Databases**
 - MongoDB  
 ### **Backend Development**
-- Flask  
+- Flask, FastAPI, Django
 
 
 ---
